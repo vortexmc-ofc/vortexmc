@@ -1,0 +1,4 @@
+function mostrarIp() {
+    alert("Exemplo")
+}
+
